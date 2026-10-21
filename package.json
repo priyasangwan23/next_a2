@@ -1,0 +1,11 @@
+{
+  "name": "next_a2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix documentation_explorer run dev",
+    "build": "npm --prefix documentation_explorer run build",
+    "start": "npm --prefix documentation_explorer run start",
+    "lint": "npm --prefix documentation_explorer run lint"
+  }
+}
