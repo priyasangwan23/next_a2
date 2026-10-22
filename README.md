@@ -1,16 +1,4 @@
-# Orbit Docs - Documentation Explorer
+# Documentation Explorer
 
-Assignment 2 Next.js project bootstrapped with App Router and TypeScript.
+Assignment 2 Next.js project.
 
-### Running the Project
-
-```bash
-cd documentation_explorer
-npm run dev
-```
-
-Or directly from here:
-
-```bash
-npm run dev
-```
